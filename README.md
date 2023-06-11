@@ -21,10 +21,6 @@ Loaded the query results into a Pandas DataFrame. Explicitly set the column name
 
 Sort the DataFrame values by "date".
 
-Plot the results by using the DataFrame plot method, as the following image shows:
-
-A screenshot depicts the plot.
-
 Use Pandas to print the summary statistics for the precipitation data.
 
 Station Analysis
@@ -34,11 +30,9 @@ Design a query to find the most-active stations (that is, the stations that have
 
 List the stations and observation counts in descending order.
 
-HINT
-Answer the following question: which station id has the greatest number of observations?
+
 Design a query that calculates the lowest, highest, and average temperatures that filters on the most-active station id found in the previous query.
 
-HINT
 Design a query to get the previous 12 months of temperature observation (TOBS) data. To do so, complete the following steps:
 
 Filter by the station that has the greatest number of observations.
