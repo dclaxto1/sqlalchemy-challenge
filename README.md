@@ -9,7 +9,7 @@ In this section, I used Python and SQLAlchemy to do a basic climate analysis and
 3. Link Python to the database by creating a SQLAlchemy session.
  
 ![image](https://github.com/dclaxto1/sqlalchemy-challenge/assets/128431134/d3427b3f-a1db-4156-826d-c883565ecddf)
-
+ 
 
 Perform a precipitation analysis and then a station analysis by completing the steps in the following two subsections.  
 
