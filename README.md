@@ -31,7 +31,7 @@ Use Pandas to print the summary statistics for the precipitation data.
 
 ### Station Analysis
 Design a query to calculate the total number of stations in the dataset.
-![image](https://github.com/dclaxto1/sqlalchemy-challenge/assets/128431134/775571c6-26dc-4a46-9776-81d561bb311e)
+![image](https://github.com/dclaxto1/sqlalchemy-challenge/assets/128431134/775571c6-26dc-4a46-9776-81d561bb311e)  
 
 Design a query to find the most-active stations (that is, the stations that have the most rows). List the stations and observation counts in descending order. <br />
 ![image](https://github.com/dclaxto1/sqlalchemy-challenge/assets/128431134/8b2fd16e-9ab5-4d9b-802a-271a79d5a0cb)
