@@ -1,4 +1,4 @@
-# sqlalchemy-challenge 
+# sqlalchemy-challenge    
 ## Part 1: Analyzing and Exploring the Climate Data <br />       
 In this section, I used Python and SQLAlchemy to do a basic climate analysis and data exploration of your climate database. Specifically, I used SQLAlchemy ORM queries, Pandas, and Matplotlib. To do so, I completed the following steps:
 
