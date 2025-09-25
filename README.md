@@ -7,7 +7,7 @@ In this section, I used Python and SQLAlchemy to do a basic climate analysis and
 2. Use the SQLAlchemy automap_base() function to reflect your tables into classes, and then save references to the classes named station and measurement.
 
 3. Link Python to the database by creating a SQLAlchemy session.  
- 
+  
 ![image](https://github.com/dclaxto1/sqlalchemy-challenge/assets/128431134/d3427b3f-a1db-4156-826d-c883565ecddf)
  
 
